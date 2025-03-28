@@ -1,4 +1,7 @@
-# Tugas-4-First-Order-Logic![Screenshot 2025-03-28 204735](https://github.com/user-attachments/assets/0f5bea87-4055-43a9-a165-2a6e42ad8f61)
+# Tugas-4-First-Order-Logic
+
+
+![Screenshot 2025-03-28 204735](https://github.com/user-attachments/assets/0f5bea87-4055-43a9-a165-2a6e42ad8f61)
 ![Screenshot 2025-03-28 204634](https://github.com/user-attachments/assets/b2e3353b-c4fd-43eb-929f-ad07319deebc)
 ![Screenshot 2025-03-28 204531](https://github.com/user-attachments/assets/7e2a95b2-dfbc-4f8a-8287-8f8310aebeb3)
 ![Screenshot 2025-03-28 204456](https://github.com/user-attachments/assets/12a25e2f-27f0-4faa-a791-74a5295eee8a)
